@@ -1,0 +1,159 @@
+{
+  "backgrounds": [
+    {
+      "id": "c3596ae4-4e78-46e8-9c9b-eb1bbce322b2",
+      "key": "background/unsplash",
+      "active": true,
+      "display": {
+        "luminosity": -0.6,
+        "blur": 0
+      }
+    }
+  ],
+  "widgets": [
+    {
+      "id": "95ef5d1f-301d-4eed-872d-bbfd9384ca04",
+      "key": "widget/time",
+      "active": true,
+      "display": {
+        "position": "topCentre",
+        "fontSize": 12,
+        "fontFamily": "blinker",
+        "fontWeight": 300
+      }
+    },
+    {
+      "id": "72eb57ee-28fe-4b0c-b1b2-1b4771975b5b",
+      "key": "widget/greeting",
+      "active": true,
+      "display": {
+        "position": "middleCentre",
+        "fontFamily": "blinker",
+        "fontWeight": 300,
+        "fontSize": 26
+      }
+    },
+    {
+      "id": "d908dfc7-e292-4d3e-aae7-3bc4f2113d7d",
+      "key": "widget/weather",
+      "active": true,
+      "display": {
+        "position": "topRight",
+        "fontFamily": "blinker"
+      }
+    },
+    {
+      "id": "6417a107-d521-42d6-bc12-5a2767f0ef9e",
+      "key": "widget/search",
+      "active": true,
+      "display": {
+        "position": "middleCentre",
+        "fontFamily": "blinker",
+        "fontWeight": 100
+      }
+    }
+  ],
+  "data": {
+    "ad36b38a-86bc-490c-8f7c-6bce644badaf": {
+      "by": "collections",
+      "collections": "",
+      "featured": false,
+      "search": "",
+      "timeout": 900
+    },
+    "5443282f-c039-40e4-9b38-1f7a111067a7": {
+      "expand": true,
+      "nsfw": false,
+      "tag": "mr robot"
+    },
+    "72eb57ee-28fe-4b0c-b1b2-1b4771975b5b": {
+      "name": "Al"
+    },
+    "95ef5d1f-301d-4eed-872d-bbfd9384ca04": {
+      "mode": "digital",
+      "hour12": false,
+      "showDate": true,
+      "showMinutes": true,
+      "showSeconds": true,
+      "showDayPeriod": true,
+      "name": ""
+    },
+    "c3596ae4-4e78-46e8-9c9b-eb1bbce322b2": {
+      "by": "search",
+      "collections": "317099",
+      "featured": true,
+      "search": "Alpine Mountain",
+      "timeout": 9007199254740991
+    },
+    "4f9275f2-ce95-4ade-9f8f-b105607a778d": {
+      "showBookAndAuthor": true,
+      "centerText": false
+    },
+    "f0ec28f4-ef1b-4c95-b08b-3cc29829f768": {
+      "category": "students"
+    },
+    "d908dfc7-e292-4d3e-aae7-3bc4f2113d7d": {
+      "showDetails": true,
+      "units": "auto",
+      "latitude": 58.3801207,
+      "longitude": 26.72245,
+      "name": "Tartu"
+    },
+    "204c11b0-0630-4f44-8767-c0f708f6098a": {
+      "items": [],
+      "show": 3
+    },
+    "6417a107-d521-42d6-bc12-5a2767f0ef9e": {
+      "searchEngine": "duckduckgo",
+      "suggestionsQuantity": 4
+    },
+    "99d2a790-978d-4e39-80e2-f25544ca925a": {
+      "input": ""
+    },
+    "a77616ab-4dc4-4fb7-a3cc-27a2cfbae2e0": {
+      "columns": 1,
+      "links": [
+        {
+          "url": "https://tabliss.io",
+          "icon": ""
+        }
+      ],
+      "visible": false,
+      "linkOpenStyle": false
+    },
+    "96e35330-3da3-444e-a867-8ad0d29901ed": {
+      "showBookAndAuthor": true,
+      "centerText": false
+    },
+    "34595e1e-e485-411b-bd87-8c389141b9e2": {
+      "items": [
+        {
+          "contents": "priit",
+          "id": "8e382432-98ed-4dbb-97ad-c17a833a61b2",
+          "completed": true
+        },
+        {
+          "contents": "eesti t66",
+          "id": "59a46b77-d9b3-40dd-a031-82d51f5b1c89",
+          "completed": true
+        },
+        {
+          "contents": "mata t66",
+          "id": "b943144d-bc01-41bb-b87e-4d278c4fe1a4",
+          "completed": true
+        },
+        {
+          "contents": "g2tIin",
+          "id": "af5e2ecb-d062-4b76-805b-08a595be7642",
+          "completed": true
+        }
+      ],
+      "show": 3
+    }
+  },
+  "locale": "sv",
+  "_persist": {
+    "version": -1,
+    "rehydrated": true
+  }
+}
